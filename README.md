@@ -1,4 +1,4 @@
-# kc-summer-2018
+# Summer Todo List
 A list of things to do in Kansas City this summer
 
 ## Attractions
