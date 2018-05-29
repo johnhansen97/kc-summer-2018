@@ -4,10 +4,10 @@
 > A collection of things to do in Kansas City
 
 ## Categories
-* [Attractions](#Attractions)  
-* [Bars](#Bars)  
-* [Concerts](#Concerts)  
-* [Food](#Food)
+* [Attractions](#attractions)  
+* [Bars](#bars)  
+* [Concerts](#concerts)  
+* [Food](#eat-and-drink)
 
 ## Attractions
 * KC Royals \[[Link](https://www.mlb.com/royals/ballpark)]
