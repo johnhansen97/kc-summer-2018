@@ -8,8 +8,7 @@ A list of things to do in Kansas City this summer
 
 ## Food
 * Q39
+* Orange Leaf
 
 ## Concerts
 * TBD
-
-
