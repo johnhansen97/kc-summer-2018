@@ -3,12 +3,6 @@
 # Kansas City Todo List
 > A collection of things to do in Kansas City
 
-## Categories
-* [Attractions](#attractions)  
-* [Bars](#bars)  
-* [Concerts](#concerts)  
-* [Food](#eat-and-drink)
-
 ## Attractions
 * KC Royals \[[Link](https://www.mlb.com/royals/ballpark)]
 * Sporting KC \[[Link](https://www.sportingkc.com/)]
