@@ -6,8 +6,10 @@ A list of things to do in Kansas City this summer
 * Sporting KC game
 * WW1 Museum and Memorial
 
+## Food
+* Q39
+
 ## Concerts
 * TBD
 
-## Food
-* Q39
+
