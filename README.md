@@ -1,23 +1,32 @@
-# KC Summer 2018 Todo List
-A list of things to do in Kansas City this summer.
+[<img src="icon.png" align="right" />](https://www.emojione.com/)
 
-# Attractions
-* KC Royals game \[[Link](https://www.mlb.com/royals/ballpark)]
-* Sporting KC game \[[Link](https://www.sportingkc.com/)]
+# KC Summer 2018 Todo List
+> A collection of things to do in Kansas City
+
+
+## Categories
+* [Attractions](#Attractions)  
+* [Bars](#Bars)  
+* [Concerts](#Concerts)  
+* [Food](#Food)
+
+## Attractions
+* KC Royals \[[Link](https://www.mlb.com/royals/ballpark)]
+* Sporting KC \[[Link](https://www.sportingkc.com/)]
 * WW1 Museum and Memorial \[[Link](https://www.theworldwar.org/)]
 * West Bottoms \[[Link](https://www.visitkc.com/west-bottoms)]
 * Worlds of Fun \[[Link](https://www.worldsoffun.com/)]
 * The Exit Room \[[Link](https://www.theexitroomkc.com/)]
 
-# Bars
+## Bars
 * Tapcade (18 and up) \[[Link](http://www.tapcadekc.com/)]
 
-# Concerts
+## Concerts
 * Grinders Concerts \[[Link](http://crossroadskc.com/)]
 * Buzz Beach Ball \[[Link](http://beachballkc.com/)]
 * Warped Tour \[[Link](https://vanswarpedtour.com/dates/bonner-springs/)]
 
-# Food
+## Food
 * Q39 \[[Link](https://q39kc.com/)]
 * Gates BBQ \[[Link](https://gatesbbq.com/)]
 * Orange Leaf \[[Link](https://www.orangeleafyogurt.com/)]
