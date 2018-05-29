@@ -6,3 +6,4 @@
 * The Brick \[[Link](http://www.thebrickkcmo.com/)]
 * Betty Rae's Ice Cream \[[Link](http://bettyraes.com/)]
 * Glace Ice Cream \[[Link](http://www.glaceicecream.com/)]
+* Conrads \[[Link](www.konradskc.com/menu.asp)]

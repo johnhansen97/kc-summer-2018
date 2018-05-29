@@ -4,3 +4,4 @@
 * WW1 Museum and Memorial \[[Link](https://www.theworldwar.org/)]
 * West Bottoms \[[Link](https://www.visitkc.com/west-bottoms)]
 * Worlds of Fun \[[Link](https://www.worldsoffun.com/)]
+* The Exit Room \[[Link](https://www.theexitroomkc.com/)]
