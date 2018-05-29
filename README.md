@@ -3,14 +3,11 @@
 # Kansas City Todo List
 > A collection of things to do in Kansas City
 
-
 ## Categories
 * [Attractions](#Attractions)  
 * [Bars](#Bars)  
 * [Concerts](#Concerts)  
 * [Food](#Food)
-
----
 
 ## Attractions
 * KC Royals \[[Link](https://www.mlb.com/royals/ballpark)]
@@ -20,14 +17,11 @@
 * Worlds of Fun \[[Link](https://www.worldsoffun.com/)]
 * The Exit Room \[[Link](https://www.theexitroomkc.com/)]
 
----
-
 ## Concerts
 * Grinders Concerts \[[Link](http://crossroadskc.com/)]
 * Buzz Beach Ball \[[Link](http://beachballkc.com/)]
 * Warped Tour \[[Link](https://vanswarpedtour.com/dates/bonner-springs/)]
 
----
 
 ## Eat and Drink
 ### Food
