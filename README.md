@@ -1,6 +1,6 @@
 [<img src="icon.png" align="right" />](https://www.emojione.com/)
 
-# KC Summer 2018 Todo List
+# Kansas City Todo List
 > A collection of things to do in Kansas City
 
 
@@ -10,6 +10,8 @@
 * [Concerts](#Concerts)  
 * [Food](#Food)
 
+---
+
 ## Attractions
 * KC Royals \[[Link](https://www.mlb.com/royals/ballpark)]
 * Sporting KC \[[Link](https://www.sportingkc.com/)]
@@ -18,20 +20,27 @@
 * Worlds of Fun \[[Link](https://www.worldsoffun.com/)]
 * The Exit Room \[[Link](https://www.theexitroomkc.com/)]
 
-## Bars
-* Tapcade (18 and up) \[[Link](http://www.tapcadekc.com/)]
+---
 
 ## Concerts
 * Grinders Concerts \[[Link](http://crossroadskc.com/)]
 * Buzz Beach Ball \[[Link](http://beachballkc.com/)]
 * Warped Tour \[[Link](https://vanswarpedtour.com/dates/bonner-springs/)]
 
-## Food
+---
+
+## Eat and Drink
+### Food
 * Q39 \[[Link](https://q39kc.com/)]
 * Gates BBQ \[[Link](https://gatesbbq.com/)]
-* Orange Leaf \[[Link](https://www.orangeleafyogurt.com/)]
 * Grinders \[[Link](https://grinderspizza.com/)]
 * The Brick \[[Link](http://www.thebrickkcmo.com/)]
+* Conrads \[[Link](www.konradskc.com/menu.asp)]
+
+### Drinks
+* Tapcade (18 and up) \[[Link](http://www.tapcadekc.com/)]
+
+### Sweets
+* Orange Leaf \[[Link](https://www.orangeleafyogurt.com/)]
 * Betty Rae's Ice Cream \[[Link](http://bettyraes.com/)]
 * Glace Ice Cream \[[Link](http://www.glaceicecream.com/)]
-* Conrads \[[Link](www.konradskc.com/menu.asp)]
