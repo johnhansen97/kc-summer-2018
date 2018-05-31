@@ -43,7 +43,7 @@
 * ☐ Orange Leaf \[[Link](https://www.orangeleafyogurt.com/)]
 * ☐ Betty Rae's Ice Cream \[[Link](http://bettyraes.com/)]
 * ☐ Glace Ice Cream \[[Link](http://www.glaceicecream.com/)]  
-* ☐ Orange Leaf/Yogurtini \[[Link](https://www.orangeleafyogurt.com/)]
+* ☐ Orange Leaf \[[Link](https://www.orangeleafyogurt.com/)]
 * ☐ Yogurtini \[[Link](https://www.yogurtini.com/)]
 
 ### Coffee
