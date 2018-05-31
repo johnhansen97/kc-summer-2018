@@ -47,11 +47,11 @@
 * Conrads \[[Link](www.konradskc.com/menu.asp)]
 * Sheng Chinese Restaurant \[[Link](https://www.shengrestaurant.com/)]
 
-# COFFEE
+### Coffee
 * Thou Mayest \[[Link](https://thoumayest.com/)]
 * Westport Coffee House \[[Link](https://westportcoffeehouse.com/)]
 
-# Movies/TV Shows
+## Movies/TV Shows
 * Solo: A Star Wars Movies
 * New Girl
 * Lorax
