@@ -25,6 +25,7 @@
 ### Food
 * ☐ Q39 \[[Link](https://q39kc.com/)]
 * ☐ Gates BBQ \[[Link](https://gatesbbq.com/)]
+* ☐ LC's BBQ \[[Link](https://www.lcsbarbq.com/)]
 * ☐ Grinders \[[Link](https://grinderspizza.com/)]
 * ☐ The Brick \[[Link](http://www.thebrickkcmo.com/)]
 * ☐ Conrads \[[Link](www.konradskc.com/menu.asp)]
