@@ -33,3 +33,10 @@
 * Orange Leaf \[[Link](https://www.orangeleafyogurt.com/)]
 * Betty Rae's Ice Cream \[[Link](http://bettyraes.com/)]
 * Glace Ice Cream \[[Link](http://www.glaceicecream.com/)]
+* <s>Orange Leaf/Yogurtini \[[Link](https://www.orangeleafyogurt.com/)]</s>
+* Conrads \[[Link](www.konradskc.com/menu.asp)]
+
+# Movies/TV Shows
+* Solo: A Star Wars Movies
+* New Girl
+* Lorax
