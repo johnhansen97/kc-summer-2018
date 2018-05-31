@@ -13,11 +13,6 @@
 * ☐ Crown Center (Super Close Walk) \[[Link](https://www.crowncenter.com/)]
 * ☐ City Market (Farmer's Market) \[[Link](http://thecitymarket.org/)]
 
-## Bars
-* ☐ Tapcade (18 and up) \[[Link](http://www.tapcadekc.com/)]
-* ☐ Westport (21+ For Most Bars) \[[Link](http://westportkcmo.com/)]
-* ☐ Updown (21+) \[[Link](http://www.updownkc.com/)]
-
 ## Concerts
 * ☐ Grinders Concerts \[[Link](http://crossroadskc.com/)]
 * ☐ Buzz Beach Ball \[[Link](http://beachballkc.com/)]
@@ -38,6 +33,8 @@
 
 ### Drinks
 * ☐ Tapcade (18 and up) \[[Link](http://www.tapcadekc.com/)]
+* ☐ Westport (21+ For Most Bars) \[[Link](http://westportkcmo.com/)]
+* ☐ Updown (21+) \[[Link](http://www.updownkc.com/)]
 
 ### Sweets
 * ☐ Orange Leaf \[[Link](https://www.orangeleafyogurt.com/)]
