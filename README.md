@@ -34,6 +34,7 @@
 * ☐ The Brick \[[Link](http://www.thebrickkcmo.com/)]
 * ☐ Conrads \[[Link](www.konradskc.com/menu.asp)]
 * ☐ Unks Burgers \[[Link](https://www.unksburgersmo.com)]
+* ☐ Sheng Chinese Restaurant \[[Link](https://www.shengrestaurant.com/)]
 
 ### Drinks
 * ☐ Tapcade (18 and up) \[[Link](http://www.tapcadekc.com/)]
@@ -42,9 +43,8 @@
 * ☐ Orange Leaf \[[Link](https://www.orangeleafyogurt.com/)]
 * ☐ Betty Rae's Ice Cream \[[Link](http://bettyraes.com/)]
 * ☐ Glace Ice Cream \[[Link](http://www.glaceicecream.com/)]  
-* 🗹 Orange Leaf/Yogurtini \[[Link](https://www.orangeleafyogurt.com/)]
-* ☐ Conrads \[[Link](www.konradskc.com/menu.asp)]
-* ☐ Sheng Chinese Restaurant \[[Link](https://www.shengrestaurant.com/)]
+* ☐ Orange Leaf/Yogurtini \[[Link](https://www.orangeleafyogurt.com/)]
+* ☐ Yogurtini \[[Link](https://www.yogurtini.com/)]
 
 ### Coffee
 * ☐ Thou Mayest \[[Link](https://thoumayest.com/)]
