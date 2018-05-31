@@ -4,14 +4,21 @@
 > A collection of things to do in Kansas City
 
 ## Attractions
-* ☐ KC Royals \[[Link](https://www.mlb.com/royals/ballpark)]
-* ☐ Sporting KC \[[Link](https://www.sportingkc.com/)]
+### Museums
 * ☐ WW1 Museum and Memorial \[[Link](https://www.theworldwar.org/)]
-* ☐ West Bottoms \[[Link](https://www.visitkc.com/west-bottoms)]
+
+### Fun and Games
 * ☐ Worlds of Fun \[[Link](https://www.worldsoffun.com/)]
 * ☐ The Exit Room \[[Link](https://www.theexitroomkc.com/)]
+
+### Events
+* ☐ KC Royals \[[Link](https://www.mlb.com/royals/ballpark)]
+* ☐ Sporting KC \[[Link](https://www.sportingkc.com/)]
+
+### Outings
 * ☐ Crown Center (Super Close Walk) \[[Link](https://www.crowncenter.com/)]
 * ☐ City Market (Farmer's Market) \[[Link](http://thecitymarket.org/)]
+* ☐ West Bottoms \[[Link](https://www.visitkc.com/west-bottoms)]
 
 ## Concerts
 * ☐ Grinders Concerts \[[Link](http://crossroadskc.com/)]
