@@ -10,11 +10,21 @@
 * West Bottoms \[[Link](https://www.visitkc.com/west-bottoms)]
 * Worlds of Fun \[[Link](https://www.worldsoffun.com/)]
 * The Exit Room \[[Link](https://www.theexitroomkc.com/)]
+* Crown Center (Super Close Walk) \[[Link](https://www.crowncenter.com/)]
+* City Market (Farmer's Market) \[[Link](http://thecitymarket.org/)]
+
+# Bars
+* Tapcade (18 and up) \[[Link](http://www.tapcadekc.com/)]
+* Westport (21+ For Most Bars) \[[Link](http://westportkcmo.com/)]
+* Updown (21+) \[[Link](http://www.updownkc.com/)]
 
 ## Concerts
 * Grinders Concerts \[[Link](http://crossroadskc.com/)]
 * Buzz Beach Ball \[[Link](http://beachballkc.com/)]
 * Warped Tour \[[Link](https://vanswarpedtour.com/dates/bonner-springs/)]
+* Dr. Dog (June 15) @ The Truman \[[Link](https://www.thetrumankc.com/)]
+* Dance Gavin Dance (June 17) @ The Truman \[[Link](https://www.thetrumankc.com/)]
+* Strawberry Girls (July 6, Fri) @ Davey's Uptown Ramblers Club \[[Link](http://www.daveysuptown.com/)]
 
 
 ## Eat and Drink
@@ -35,6 +45,11 @@
 * Glace Ice Cream \[[Link](http://www.glaceicecream.com/)]
 * Orange Leaf/Yogurtini \[[Link](https://www.orangeleafyogurt.com/)] ✔️
 * Conrads \[[Link](www.konradskc.com/menu.asp)]
+* Sheng Chinese Restaurant \[[Link](https://www.shengrestaurant.com/)]
+
+# COFFEE
+* Thou Mayest \[[Link](https://thoumayest.com/)]
+* Westport Coffee House \[[Link](https://westportcoffeehouse.com/)]
 
 # Movies/TV Shows
 * Solo: A Star Wars Movies
