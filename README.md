@@ -8,7 +8,12 @@ A list of things to do in Kansas City this summer.
 
 ## Food
 * Q39
-* Orange Leaf
+* <s>Orange Leaf/Yogurtini</s>
 
 ## Concerts
 * TBD
+
+## Movies/TV Shows
+* Solo: A Star Wars Movies
+* New Girl
+* Lorax
