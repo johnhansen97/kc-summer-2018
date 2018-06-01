@@ -1,7 +1,7 @@
 [<img src="icon.png" align="right" />](https://www.emojione.com/)
 
 # Kansas City Todo List
-> A collection of things to do in Kansas City
+> A collection of things to do in Kansas City  
 
 ## Attractions
 * ☐ KC Royals \[[Link](https://www.mlb.com/royals/ballpark)]
