@@ -7,6 +7,8 @@
 ### Museums
 * ☐ WW1 Museum and Memorial \[[Link](https://www.theworldwar.org/)]
 * ☐ The Nelson-Atkins Museum of Art \[[Link](https://www.nelson-atkins.org/)]
+* ☐ Negro Leagues Baseball Museum \[[Link](https://www.nlbm.com/)]
+* ☐ American Jazz Museum \[[Link](https://americanjazzmuseum.org/)]
 
 
 ### Fun and Games
