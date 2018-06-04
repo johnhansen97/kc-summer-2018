@@ -37,7 +37,7 @@
 ## Eat and Drink
 ### Food
 * ☐ Q39 \[[Link](https://q39kc.com/)]
-* ☐ Gates BBQ \[[Link](https://gatesbbq.com/)]
+* ☑ Gates BBQ \[[Link](https://gatesbbq.com/)]
 * ☐ LC's BBQ \[[Link](https://www.lcsbarbq.com/)]
 * ☐ Grinders \[[Link](https://grinderspizza.com/)]
 * ☐ The Brick \[[Link](http://www.thebrickkcmo.com/)]
@@ -47,7 +47,7 @@
 * ☐ Brgr \[[Link](http://www.brgrkitchen.com/)]
 
 ### Drinks
-* ☐ Tapcade (18 and up) \[[Link](http://www.tapcadekc.com/)]
+* ☑ Tapcade (18 and up) \[[Link](http://www.tapcadekc.com/)]
 * ☐ Westport (21+ For Most Bars) \[[Link](http://westportkcmo.com/)]
 * ☐ Updown (21+) \[[Link](http://www.updownkc.com/)]
 
