@@ -9,6 +9,7 @@
 * ☐ The Nelson-Atkins Museum of Art \[[Link](https://www.nelson-atkins.org/)]
 * ☐ Negro Leagues Baseball Museum \[[Link](https://www.nlbm.com/)]
 * ☐ American Jazz Museum \[[Link](https://americanjazzmuseum.org/)]
+* ☐ Money Museum \[[Link](https://www.kansascityfed.org/moneymuseum)]
 
 
 ### Fun and Games
