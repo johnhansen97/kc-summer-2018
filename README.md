@@ -24,7 +24,7 @@
 * ☐ Crown Center (Super Close Walk) \[[Link](https://www.crowncenter.com/)]
 * ☐ City Market (Farmer's Market) \[[Link](http://thecitymarket.org/)]
 * ☐ West Bottoms \[[Link](https://www.visitkc.com/west-bottoms)]
-* ☐ Boulevard Brewing Company Tour \[[Link]](https://www.boulevard.com)
+* ☐ Boulevard Brewing Company Tour \[[Link](https://www.boulevard.com)]
 
 
 ## Concerts
