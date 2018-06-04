@@ -57,6 +57,7 @@
 * ☐ Glace Ice Cream \[[Link](http://www.glaceicecream.com/)]  
 * ☐ Orange Leaf \[[Link](https://www.orangeleafyogurt.com/)]
 * ☐ Yogurtini \[[Link](https://www.yogurtini.com/)]
+* ☐ Insomnia Cookies \[[Link](https://insomniacookies.com/locations/store/1152)]
 
 ### Coffee
 * ☐ Thou Mayest \[[Link](https://thoumayest.com/)]
