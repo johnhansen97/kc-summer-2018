@@ -27,13 +27,14 @@
 * ☐ Boulevard Brewing Company Tour \[[Link](https://www.boulevard.com)]
 
 
-## Concerts
+## Concerts / Live shows
 * ☐ Grinders Concerts \[[Link](http://crossroadskc.com/)]
 * ☐ Buzz Beach Ball \[[Link](http://beachballkc.com/)]
 * ☐ Warped Tour \[[Link](https://vanswarpedtour.com/dates/bonner-springs/)]
 * ☐ Dr. Dog (June 15) @ The Truman \[[Link](https://www.thetrumankc.com/)]
 * ☐ Dance Gavin Dance (June 17) @ The Truman \[[Link](https://www.thetrumankc.com/)]
 * ☐ Strawberry Girls (July 6, Fri) @ Davey's Uptown Ramblers Club \[[Link](http://www.daveysuptown.com/)]
+* ☐ Theatre at Vis presents "Seussical" (July 26-29) @ Visitation Church on Main {Melissa is Assistant Director for the show} \[[Link](http://www.theatreatvis.org/)]
 
 ## Eat and Drink
 ### Food
